@@ -19,6 +19,7 @@
 
 | Skill | 说明 | 讲解 |
 |-------|------|------|
+| [**neat-freak（洁癖）**](./neat-freak/) | 会话结束时自动审查整个项目的文档、CLAUDE.md 和 Agent 记忆，把疏于维护的知识体系拉回到跟代码对齐的干净状态。Claude Code / Codex / OpenCode / OpenClaw 通用 | 待发布 |
 | [**hv-analysis**](./hv-analysis/) | 横纵分析法深度研究 Skill，自动联网收集信息，纵向追时间深度 + 横向追竞争广度，最终输出排版精美的 PDF 研究报告 | [公众号文章](https://mp.weixin.qq.com/s/Y_uRMYBmdLWUPnz_ac7jWA) |
 | [**khazix-writer**](./khazix-writer/) | 卡兹克公众号长文写作 Skill，包含完整的写作风格规则、四层自检体系、内容方法论和风格示例库 | [公众号文章](https://mp.weixin.qq.com/s/AtxGrii_K-nzkwUM9SNhEg) |
 
